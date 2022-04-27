@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=191932-sinharitika009" alt="191932-sinharitika009" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack & NLP**
+- 🌱 I’m currently learning **NodeJs & NLP**
 
 - 📝 I regularly write articles on [https://sinha009.blogspot.com/](https://sinha009.blogspot.com/)
 
